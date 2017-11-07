@@ -14,7 +14,7 @@
 
 	<name>cucumber-jvm-parallel-plugin Maven Plugin</name>
 
-	<url>https://github.com/temyers/cucumber-jvm-parallel-plugin</url>
+	<url>https://github.com/philopee/cucumber-jvm-parallel-plugin</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
